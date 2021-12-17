@@ -114,7 +114,7 @@ function newFn(dishes) {
 </div>
 <div class="card2">
     <p class="rs">${dishes.rupee}</p>
-    <div class="shape"> 
+    <div class="shape">
          <img src=${dishes.shape}>
     </div>
 </div>
